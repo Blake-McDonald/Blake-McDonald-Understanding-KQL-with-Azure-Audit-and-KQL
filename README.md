@@ -1,0 +1,1 @@
+# Blake-McDonald-Understanding-KQL-with-Azure-Audit-and-KQL
