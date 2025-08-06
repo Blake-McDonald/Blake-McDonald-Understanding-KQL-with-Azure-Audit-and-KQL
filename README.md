@@ -1,1 +1,13 @@
-# Blake-McDonald-Understanding-KQL-with-Azure-Audit-and-KQL
+# 
+
+
+
+
+<h1> Understanding KQL with Azure Audit and KQL </h1>
+
+
+<h3> Video Tutorial Below </h2>
+
+[Watch the Video Tutorial](https://youtu.be/vEvvwW0wfcI)
+
+<hr>
